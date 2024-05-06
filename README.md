@@ -2,21 +2,19 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Survey form
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![previewor del projecto](Screenshot.png)
+esto es un projecto sobre como hacer reseta en html 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Vs code
+- Git bash
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rafaelb056.github.io/Survey_Form/)
 
 
 ## Getting Started
@@ -43,33 +41,25 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Rafael Benitez Enriquez Gonzales**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@rafaelb056](https://github.com/rafaelb056)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rafaelb056/odin_recipes/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+muchas gracias por el apoyo
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- gracias profesor aristides
 
 ## 📝 License
 
