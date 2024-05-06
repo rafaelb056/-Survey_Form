@@ -3,8 +3,8 @@
 }
 body{
 font-family:'Poppins', sans-serif;
-margin:3.125rem 400px;
-font-weight: 400;
+font-weight: 200;
+margin:0;
 line-height: 1.4;
 background-size: cover;
 background-repeat: no-repeat;
@@ -18,23 +18,22 @@ color:#fff;
   display:flex;
   flex-direction:column;
   align-items:center;
-  width:100%;
-  
 } 
 
 .header{
-padding: 0 0.625rem;
+padding: 0 30px;
 margin-bottom: 1.875rem;
+margin:auto 20px;
 }
 .text-center{
   text-align:center;
 }
 
 form{
-  width:100%;
+  min-width:400px;
+  width:45%;
   background-color:rgba(27, 27, 50, 0.8);
-  margin:auto 50px;
-  padding:30px;
+  padding:38px;
   border-radius:2px
   
 }
